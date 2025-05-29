@@ -10,7 +10,8 @@ const Navbar = () => {
             <span className="navbar-toggler-bar bar3"></span>
           </span>
         </button>
-        <div className="collapse navbar-collapse" id="navigation">
+        {/* NAVIGATION IN THE FUTURE */}
+        {/* <div className="collapse navbar-collapse" id="navigation">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item dropdown">
               <a className="nav-link text-dark dropdown-toggle font-weight-bold d-flex align-items-center me-2 " aria-current="page" id="pagesExample" data-bs-toggle="dropdown" aria-expanded="false">
@@ -33,7 +34,7 @@ const Navbar = () => {
               </a>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
     </nav>
   );

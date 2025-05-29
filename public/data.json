@@ -31,7 +31,7 @@
       "title": "Basic Starter Pack",
       "price": 399,
       "description": "That’s the main thing people are controlled by! Thoughts- their perception of themselves!",
-      "full_description": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out.",
+      "full_description": "Your one-stop shop to repair, buy, and sell electronics with fast, reliable service.",
       "details": "There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn.",
       "highlights": [
         "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
@@ -191,19 +191,19 @@
   ],
   "categories": [
     {
-      "thumb_src": "./images/category1.jpg",
-      "title": "Silk Dresses",
-      "collection": "Pre-fall"
+      "thumb_src": "./images/repair.jpg",
+      "title": "Repair",
+      "collection": "Fast, reliable electronic repairs to get you reconnected in no time."
     },
     {
-      "thumb_src": "./images/category2.jpg",
-      "title": "Suits",
-      "collection": "Designers"
+      "thumb_src": "./images/buy.jpg",
+      "title": "Buy",
+      "collection": "Shop phones, laptops, tablets, gaming consoles, chargers, cases, headphones, and much more."
     },
     {
-      "thumb_src": "./images/category3.jpg",
-      "title": "Festival",
-      "collection": "Summer"
+      "thumb_src": "./images/sell.jpg",
+      "title": "Sell",
+      "collection": "Got an old phone, laptop, tablet, or console lying around? Turn it into instant cash!"
     },
     {
       "thumb_src": "./images/category4.jpg",
